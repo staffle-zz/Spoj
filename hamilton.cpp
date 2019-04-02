@@ -4,7 +4,7 @@ using backtracking */
 
 // Number of vertices in the graph 
 #define V 5 
-
+#define long long ll
 void printSolution(int path[]); 
 
 /* A utility function to check if the vertex v can be added at 
